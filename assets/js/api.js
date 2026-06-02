@@ -1,8 +1,8 @@
 const USE_BACKEND = true
 const BACKEND_URL = 'https://c-digo-loja-backend.vercel.app/api'
 
-const SUPABASE_URL = 'https://rodcdlzxyazemozocgzx.supabase.co'
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJvZGNkbHp4eWF6ZW1vem9jZ3p4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwMjc4MTAsImV4cCI6MjA5NTYwMzgxMH0.Y9C93oE5pW9cpGejdTJNwdeZ89LAEXfbgtpj43CS-Z8'
+const SUPABASE_URL = 'https://yoalotvknztlreymtdhp.supabase.co'
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlvYWxvdHZrbnp0bHJleW10ZGhwIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MDM2NjM2OSwiZXhwIjoyMDk1OTQyMzY5fQ.aZNL3MgI5xV8QPRyHu7sQPImj7VUSdI264e3w9_DfK8'
 
 // ─── UTILITÁRIOS ──────────────────────────────────────────────────────────────
 export function formatPrice(value) {
